@@ -1,5 +1,5 @@
 
-![alt test](/XXX.png)
+![alt test](/sshot-2.png)
 
 # Performance Evaluation of Bias Correction Methods for Climate Change Monthly Precipitation Projections over Costa Rica
 
