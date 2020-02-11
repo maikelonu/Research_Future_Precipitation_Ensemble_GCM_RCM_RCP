@@ -7,9 +7,9 @@ Bias corrected monthly precipitation projections over Costa Rica using a GCM-RCM
 
 MDPI - Water Journal
 
-# https://www.mdpi.com/
+# https://www.mdpi.com/2073-4441/12/2/482
 
-# https://doi.org/
+# https://doi.org/10.3390/w12020482
 
 Flowchart of data processing and implementation of the bias correction (BC) methodology utilized. Hexagons represent the corresponding R-script included in Supplementary-Materials
 
