@@ -15,7 +15,7 @@ Flowchart of data processing and implementation of the bias correction (BC) meth
 
 ![alt test](/ILLUS_03.png)
 
-QGIS-Project
+QGIS-Project.
 
 ![alt test](/QGIS_GCM_RCM.png)
 
